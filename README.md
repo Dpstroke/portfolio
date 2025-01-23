@@ -35,7 +35,7 @@ A sleek, animated, and responsive developer portfolio built with React, TypeScri
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/developer-portfolio.git
+git clone https://github.com/Dpstroke/portfolio
 ```
 
 2. Navigate to the project directory
